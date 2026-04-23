@@ -11,7 +11,9 @@ How can we classify the different emotional journeys of characters in text?
 - Analyze both the dialogue and narration surrounding characters
 
 ## Progress
-- Took the average Valence, Arousal, and Dominance scores of characters to compare
+- Took the average Valence, Arousal, and Dominance scores of each character's dialogue to compare
+- Looked at trajectory of VAD scores over the course of the story for each character's dialogue
 
 ## Next Steps
+- Include narrative text for clustering the characters
 - Compare the difference in emotional trajectories for major, intermediate, and minor characters
